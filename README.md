@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @scott-at-philips. I am an Senior Development Engineer with MRPC in Orlando, FL, USA. 
+- 👋 Hi, I’m @scott-at-philips. I am a Senior Development Engineer with MRPC in Orlando, FL, USA. 
 - 👀 I’m interested in AI/ML applications in medical device product development. 
 - 🌱 I’m currently learning how to enable product development workflows with AI technologies. 
 - 💞️ I’m looking for opportunities to collaborate on application development Systems Engineering and R&D workflows. 
